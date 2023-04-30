@@ -33,13 +33,13 @@ disqus_shortname: jekyll-machine
 # 社交链接
 social:
   - name: Github
-    url: https://github.com/dotos
+    url: https://github.com/BAKCHEONGKYUNG
     icon: github
   - name: Weibo
     url: http://weibo.com/BingPictures
     icon: weibo
   - name: Email
-    url: mailto:hero@xone.me
+    url: mailto:draw.ch.b@gmail.com
     icon: envelope
   - name: RSS
     url: /feed.xml
