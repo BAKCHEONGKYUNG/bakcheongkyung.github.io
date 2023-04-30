@@ -5,9 +5,9 @@ anthor:
   email: draw.ch.b@gmail.com
   twitter_username: ''
   github_username: Bakcheongkyung
-lang: zh-CN
-since: 2013
-beian: 粤ICP备xxxxxxx号
+lang: ko
+since: 2023
+beian:
 rss: /feed.xml
 baseurl: # the subpath of your site, e.g. /blog/
 url: 'https://bakcheongkyung.github.io' # the base hostname & protocol for your site
