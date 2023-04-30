@@ -48,7 +48,7 @@ social:
 # Build settings
 destination: _site
 encoding: utf-8
-timezone: Asia/Shanghai
+timezone: Asia/Korea
 #feture:             true
 permalink: /:year/:title/
 paginate: 10
@@ -84,3 +84,8 @@ gems:
   - jekyll-mentions # activesupport requires Ruby version >= 2.2.2
   - jemoji
   - jekyll-redirect-from
+
+
+# 추가
+layout: default
+permalink: /index.html
