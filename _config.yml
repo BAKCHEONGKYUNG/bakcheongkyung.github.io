@@ -28,7 +28,7 @@ menu:
     url: /about/
 
 # comments
-disqus_shortname: jekyll-machine
+# disqus_shortname: jekyll-machine
 
 # 社交链接
 social:
