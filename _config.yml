@@ -9,7 +9,7 @@ lang: ko-KR
 since: 2023
 beian:
 rss: /feed.xml
-baseurl: https://github.com/BAKCHEONGKYUNG
+baseurl: # the subpath of your site, e.g. /blog/
 url: 'https://bakcheongkyung.github.io' # the base hostname & protocol for your site
 description: > # this means to ignore newlines until "baseurl:"
   Bakcheongkyung Portfolio.
@@ -19,7 +19,7 @@ theme_color: blue
 
 menu:
   - name: Home
-    url: https://bakcheongkyung.github.io
+    url: /index.html
   - name: Categories
     url: /categories/
   - name: Tags
