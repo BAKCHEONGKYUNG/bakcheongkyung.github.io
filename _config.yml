@@ -35,9 +35,6 @@ social:
   - name: Github
     url: https://github.com/BAKCHEONGKYUNG
     icon: github
-  - name: Weibo
-    url: http://weibo.com/BingPictures
-    icon: weibo
   - name: Email
     url: mailto:draw.ch.b@gmail.com
     icon: envelope
