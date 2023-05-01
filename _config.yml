@@ -19,7 +19,7 @@ theme_color: blue
 
 menu:
   - name: Home
-    url: /index.html
+    url: https://bakcheongkyung.github.io
   - name: Categories
     url: /categories/
   - name: Tags

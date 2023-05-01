@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Bak Cheong-kyung Portfolio'
+title: 'PORTFOLIO'
 date: 2023-04-30 00:00:00 +0800
 categories: [jekyll update]
 # tags: [jekyll, liquid]
-tags: [github]
+# tags: [github]
 ---
 
 <!--more-->
