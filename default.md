@@ -1,7 +1,8 @@
 ---
 layout: base
-title: "Welcome to Machine"
+title: 'Welcome to Bak-CheongKyung Portfolio'
 ---
+
 <section id="banner">
     <div class="inner">
         <div class="content">
