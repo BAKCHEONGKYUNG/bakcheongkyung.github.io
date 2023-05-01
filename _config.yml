@@ -12,7 +12,7 @@ rss: /feed.xml
 baseurl: # the subpath of your site, e.g. /blog/
 url: 'https://bakcheongkyung.github.io' # the base hostname & protocol for your site
 description: > # this means to ignore newlines until "baseurl:"
-  This is a Responsive Theme for Jekyll.
+  Bakcheongkyung Portfolio.
 
 # 主题颜色 red/green/blue (default:blue)
 theme_color: blue
