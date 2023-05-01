@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Jekyll & Liquid Cheatsheet"
-date:   2016-08-18 8:08:44 +0800
+title: 'Bak Cheong-kyung Portfolio'
+date: 2023-04-30 00:00:00 +0800
 categories: [jekyll update]
-tags: [jekyll,liquid]
+tags: [jekyll, liquid]
 ---
 
 <!--more-->
