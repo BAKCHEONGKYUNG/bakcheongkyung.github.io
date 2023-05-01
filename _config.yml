@@ -19,7 +19,7 @@ theme_color: blue
 
 menu:
   - name: Home
-    url: /index.html
+    url: /
   - name: Categories
     url: /categories/
   - name: Tags
