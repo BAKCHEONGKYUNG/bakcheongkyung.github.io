@@ -81,8 +81,3 @@ gems:
   - jekyll-mentions # activesupport requires Ruby version >= 2.2.2
   - jemoji
   - jekyll-redirect-from
-
-
-# 추가
-layout: default
-permalink: /index.html
