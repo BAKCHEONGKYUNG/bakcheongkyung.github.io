@@ -19,13 +19,13 @@ theme_color: blue
 
 menu:
   - name: Home
-    url: /index.html
+    url: {{ site.baseurl }}/
   - name: Categories
-    url: /categories/
+    url: {{ site.baseurl }}/categories/
   - name: Tags
-    url: /tags/
+    url: {{ site.baseurl }}/tags/
   - name: About
-    url: /about/
+    url: {{ site.baseurl }}/about/
 
 # comments
 disqus_shortname: bak-cheongkyung
