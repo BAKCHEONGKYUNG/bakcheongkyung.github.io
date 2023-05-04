@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Welcome to Bak-CheongKyung Portfolio'
+# permalink: /tags/
 ---
 
 <section id="banner">
