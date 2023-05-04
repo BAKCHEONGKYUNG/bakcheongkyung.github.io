@@ -12,6 +12,15 @@
   <script src="{{ " /js/jquery.scrollex.min.js" | prepend: site.baseurl }}"></script>
   <script src="{{ " /js/skel.min.js" | prepend: site.baseurl }}"></script>
   <script src="{{ " /js/util.js" | prepend: site.baseurl }}"></script>
+
+  <!-- Open Graph (Facebook, Linkedin) -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="노력으로 발전하는 개발자" />
+  <meta property="og:description" content="박청경. Bak Cheong-Kyung" />
+  <meta property="og:image" content="{{ site.url }}/images/open-graph_L.png" />
+  <meta property="og:url" content="{{ site.url }}" />
+
+
   <!--[if lte IE 8]><script src="{{ "/js/html5shiv.js" | prepend: site.baseurl }}"></script><![endif]-->
   <!--[if lte IE 9]><link rel="stylesheet" href="{{ "/css/ie9.css" | prepend: site.baseurl }}" /><![endif]-->
   <!--[if lte IE 8]><link rel="stylesheet" href="{{ "/css/ie8.css" | prepend: site.baseurl }}" /><![endif]-->
@@ -27,6 +36,6 @@
   <link rel="stylesheet" href="{{ " /css/b.css" | prepend: site.baseurl }}">
   {% endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
+  <!-- favicon -->
   <link rel="shortcut icon" type="icon" href="/images/open-graph_S.ico">
 </head>
