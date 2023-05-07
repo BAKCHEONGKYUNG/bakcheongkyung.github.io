@@ -16,16 +16,16 @@ menu:
   - name: Home
     url: /
   - name: Categories
-    url: /categories/
+    url: /categories
   - name: Tags
-    url: /tags/
+    url: /tags
   - name: About
-    url: /about/
+    url: /about
 
 # comments
 disqus_shortname: bak-cheongkyung
 
-# 프로필 영역
+# 사이트 저자 소개
 anthor:
   name: Bakcheongkyung
   email: draw.ch.b@gmail.com
@@ -49,9 +49,9 @@ encoding: utf-8
 timezone: Asia/Seoul
 asset_url: /assets
 
-# Outoutting
-permalink: /:year/:title/
-paginate: 10 #Defaults : 5
+# 블로그 표시 방법 설정 : Outoutting
+permalink: /:year/:title/ # 흠... /:categories?
+paginate: 10 # Defaults : 5
 paginate_path: /page/:num/
 markdown: kramdown
 highlighter: rouge

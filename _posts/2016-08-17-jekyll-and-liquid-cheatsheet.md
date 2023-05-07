@@ -1,13 +1,10 @@
 ---
+# 머리말에 카테고리와 태그 설정
 layout: post
 title: 'PORTFOLIO'
 date: 2023-04-30 00:00:00 +0800
-# categories:
-# 카테고리 설정으로 포스트 분류하고,
-# 카테고리별로 포스트를 보여줄 수 있다.
-categories: [portfolio update]
-tags: [tags]
-# tags: [github]
+categories: [portfolio update] # 카테고리는 포스트의 url.
+tags: [tags] # 태그는 안됨.
 ---
 
 <!--more-->
