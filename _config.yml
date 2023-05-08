@@ -15,8 +15,8 @@ theme_color: blue
 menu:
   - name: Home
     url: /index.html
-  - name: Portfolio
-    url: /portfolio
+  - name: Portfolios
+    url: /portfolios
   - name: Tags
     url: /tags
   - name: About
