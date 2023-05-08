@@ -7,18 +7,18 @@ layout: base
     <h2>{{page.title}}</h2>
   </header>
   <div class="inner">
-    <h2>All Categories:</h2>
+    <h2>All portfolios:</h2>
     <ul class="actions small">
-      {% for category in site.categories %}
-      <li><a class="button small" href="#{{category[0]}}">{{ category[0] }}</a></li>
+      {% for portfolio in site.portfolios %}
+      <li><a class="button small" href="#{{portfolio[0]}}">{{ portfolio[0] }}</a></li>
       {% endfor %}
     </ul>
     <hr>
-    {% for category in site.categories %}
-    <h3 id="{{ category[0] }}">{{ category[0] }}</h3>
+    {% for portfolio in site.portfolios %}
+    <h3 id="{{ portfolio[0] }}">{{ portfolio[0] }}</h3>
     <ol>
       {% for post in site.posts %}
-      {% if post.categories contains category[0] %}
+      {% if post.portfolios contains portfolio[0] %}
       <li><a href="{{ site.baseurl }}{{ post.url | replace_first: '/' }}">{{ post.title }}</a></li>
       {% endif %}
       {% endfor %}

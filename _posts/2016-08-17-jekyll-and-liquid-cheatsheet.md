@@ -3,7 +3,7 @@
 layout: post
 title: 'PORTFOLIO'
 date: 2023-04-30 00:00:00 +0800
-categories: [portfolio update] # 카테고리는 포스트의 url.
+portfolios: [portfolio update] # 카테고리는 포스트의 url.
 tags: [tags] # 태그는 안됨.
 ---
 

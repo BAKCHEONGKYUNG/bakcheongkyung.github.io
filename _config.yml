@@ -15,8 +15,8 @@ theme_color: blue
 menu:
   - name: Home
     url: /index.html
-  - name: Categories
-    url: /categories
+  - name: Portfolio
+    url: /portfolio
   - name: Tags
     url: /tags
   - name: About
@@ -50,7 +50,7 @@ timezone: Asia/Seoul
 asset_url: /assets
 
 # 블로그 표시 방법 설정 : Outoutting
-permalink: /:year/:title/ # 흠... /:categories?
+permalink: /:year/:title/ # 흠... /:portfolios?
 paginate: 10 # Defaults : 5
 paginate_path: /page/:num/
 markdown: kramdown
