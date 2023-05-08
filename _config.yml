@@ -1,5 +1,5 @@
 # Site settings, 기본정보 입력
-title: 노력으로 발전하는 개발자 Blog
+title: 'Bak Cheong-kyung' Portfolio
 lang: ko-KR
 since: 2023
 beian:
@@ -23,11 +23,11 @@ menu:
     url: /about
 
 # comments
-disqus_shortname: bak-cheongkyung
+disqus_shortname: Bak Cheong-kyung
 
 # 사이트 저자 소개
 anthor:
-  name: Bakcheongkyung
+  name: Bak Cheong-kyung
   email: draw.ch.b@gmail.com
   github_username: Bakcheongkyung
 
